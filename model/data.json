@@ -1,0 +1,19 @@
+{
+	"selectedKey": "page2",
+	"navigation": [
+		{
+			"title": "Object Inventory",
+			"icon": "sap-icon://cancel-share",
+			"expanded": true,
+			"key": "root1"
+		},
+		{
+			"title": "Links Inventory",
+			"icon": "sap-icon://combine",
+			"expanded": true,
+			"key": "root2"
+		}
+
+	]
+
+}
